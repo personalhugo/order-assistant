@@ -1,7 +1,9 @@
 anthropic>=2.6,<3
+jiter>=0.4
 fastapi>=0.162
-uvicorn[standard]>=0.54
+uvicorn>=0.54
 pydantic>=2.14
 pydantic-settings>=2.16
+sqlalchemy>=2.0
 streamlit>=1.67
 httpx>=0.28
